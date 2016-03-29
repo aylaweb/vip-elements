@@ -1,0 +1,36 @@
+{
+    "name": "vip-elements",
+    "version": "0.1.0",
+    "description": "A set of elements for Ayla",
+    "keywords": [
+        "web-components",
+        "polymer",
+        "Ayla"
+    ],
+    "dependencies": {
+        "vip-app": "git@github.com:aylaweb/vip-app.git#^0.1",
+        "vip-app-selector": "git@github.com:aylaweb/vip-app-selector.git#^0.1",
+        "vip-loader": "git@github.com:aylaweb/vip-loader.git#^0.1",
+        "vip-layout": "git@github.com:aylaweb/vip-layout.git#^0.1",
+        "vip-login": "git@github.com:aylaweb/vip-login.git#^0.1",
+        "vip-message-panel": "git@github.com:aylaweb/vip-message-panel.git#^0.1",
+        "vip-section": "git@github.com:aylaweb/vip-section.git#^0.1",
+        "vip-svg": "git@github.com:aylaweb/vip-svg.git#^0.1",
+        "vip-time-digital": "git@github.com:aylaweb/vip-time-digital.git#^0.1",
+        "vip-time-slider": "git@github.com:aylaweb/vip-time-slider.git#^0.1",
+        "vip-video-html5": "git@github.com:aylaweb/vip-video-html5.git#^0.1",
+        "vip-video-youtube": "git@github.com:aylaweb/vip-video-youtube.git#^0.1",
+        "vip-animations": "git@github.com:aylaweb/vip-animations.git#^0.1"
+    },
+    "authors": [
+        "The Ayla Authors"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "main": "vip-elements.html"
+}
