@@ -8,19 +8,19 @@
         "Ayla"
     ],
     "dependencies": {
-        "vip-app": "git@github.com:aylaweb/vip-app.git#^0.1",
-        "vip-app-selector": "git@github.com:aylaweb/vip-app-selector.git#^0.1",
-        "vip-loader": "git@github.com:aylaweb/vip-loader.git#^0.1",
-        "vip-layout": "git@github.com:aylaweb/vip-layout.git#^0.1",
-        "vip-login": "git@github.com:aylaweb/vip-login.git#^0.1",
-        "vip-message-panel": "git@github.com:aylaweb/vip-message-panel.git#^0.1",
-        "vip-section": "git@github.com:aylaweb/vip-section.git#^0.1",
-        "vip-svg": "git@github.com:aylaweb/vip-svg.git#^0.1",
-        "vip-time-digital": "git@github.com:aylaweb/vip-time-digital.git#^0.1",
-        "vip-time-slider": "git@github.com:aylaweb/vip-time-slider.git#^0.1",
-        "vip-video-html5": "git@github.com:aylaweb/vip-video-html5.git#^0.1",
-        "vip-video-youtube": "git@github.com:aylaweb/vip-video-youtube.git#^0.1",
-        "vip-animations": "git@github.com:aylaweb/vip-animations.git#^0.1"
+        "vip-app": "https://github.com/aylaweb/vip-app.git#^0.1",
+        "vip-app-selector": "https://github.com/aylaweb/vip-app-selector.git#^0.1",
+        "vip-loader": "https://github.com/aylaweb/vip-loader.git#^0.1",
+        "vip-layout": "https://github.com/aylaweb/vip-layout.git#^0.1",
+        "vip-login": "https://github.com/aylaweb/vip-login.git#^0.1",
+        "vip-message-panel": "https://github.com/aylaweb/vip-message-panel.git#^0.1",
+        "vip-section": "https://github.com/aylaweb/vip-section.git#^0.1",
+        "vip-svg": "https://github.com/aylaweb/vip-svg.git#^0.1",
+        "vip-time-digital": "https://github.com/aylaweb/vip-time-digital.git#^0.1",
+        "vip-time-slider": "https://github.com/aylaweb/vip-time-slider.git#^0.1",
+        "vip-video-html5": "https://github.com/aylaweb/vip-video-html5.git#^0.1",
+        "vip-video-youtube": "https://github.com/aylaweb/vip-video-youtube.git#^0.1",
+        "vip-animations": "https://github.com/aylaweb/vip-animations.git#^0.1"
     },
     "authors": [
         "The Ayla Authors"
